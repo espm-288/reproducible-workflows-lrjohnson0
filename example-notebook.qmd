@@ -1,8 +1,14 @@
 ---
-title: "example-notebook.qmd"
+title: My Quarto Demo
 format: html
-editor: visual
+author: Leah R Johnson
+editor: source
 ---
+
+
+
+
+
 
 ## Quarto
 
